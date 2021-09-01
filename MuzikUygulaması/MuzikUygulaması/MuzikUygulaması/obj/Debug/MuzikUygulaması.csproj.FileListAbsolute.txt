@@ -1,0 +1,15 @@
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\bin\Debug\MuzikUygulaması.exe.config
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\bin\Debug\MuzikUygulaması.exe
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\bin\Debug\MuzikUygulaması.pdb
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\obj\Debug\MuzikUygulaması.csprojAssemblyReference.cache
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\obj\Debug\MuzikUygulaması.Form1.resources
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\obj\Debug\MuzikUygulaması.Properties.Resources.resources
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\obj\Debug\MuzikUygulaması.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\obj\Debug\MuzikUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\obj\Debug\MuzikUygulaması.exe
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\obj\Debug\MuzikUygulaması.pdb
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\obj\Debug\MuzikUygulaması.AdminGirisFormu.resources
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\obj\Debug\MuzikUygulaması.UyeOlmaFormu.resources
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\obj\Debug\MuzikUygulaması.KullanıcıGirisFormu.resources
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\obj\Debug\MuzikUygulaması.AdminİslemFormu.resources
+C:\Users\MSI\OneDrive\Masaüstü\MuzikUygulaması\MuzikUygulaması\obj\Debug\MuzikUygulaması.PremiumaGecisFormu.resources
